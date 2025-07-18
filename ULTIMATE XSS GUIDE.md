@@ -1,4 +1,4 @@
-## Enumerating for **XSS (Cross-Site Scripting)** on a domain in the context of **bug bounty** requires a systematic approach to discover and exploit input points, bypass filters, and escalate impact. Here's a **step-by-step enumeration and testing workflow** tailored for bug bounty hunting:
+## Enumerating for **XSS (Cross-Site Scripting)** on a domain in the context of **bug bounty** requires a systematic approach to discover and exploit input points, bypass filters, and escalate impact. Here's a **step-by-step enumeration and testing workflow** tailored for bug bounty hunting
 ---
 ### 🔍 1. **Reconnaissance (Subdomain & Endpoint Discovery)**
 
