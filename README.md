@@ -1,7 +1,4 @@
-# 👋 About Me
-I am a dedicated cybersecurity student with a strong passion for offensive security, automation, and ethical hacking. As an aspiring OSCP, I actively participate in Capture The Flag (CTF) competitions and bug bounty programs to sharpen my skills and contribute to a safer digital world. I enjoy building innovative security tools and scripts, and I am committed to continuously expanding my knowledge in the ever-evolving field of cybersecurity. My goal is to make a positive impact by identifying vulnerabilities, sharing knowledge, and promoting best practices in information security.
 
----
 
 # 🛡️ WebSec Writeups
 
