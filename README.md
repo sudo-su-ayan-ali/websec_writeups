@@ -4,6 +4,10 @@ Welcome to the **WebSec Writeups** repository! This project is a curated collect
 
 ---
 
+## 📂 Repository Structure
+
+Here’s an overview of the main files and folders included in the repository:
+
 ### 📁 [PortSwigger Academy Lab Challenges](./PortSwigger%20Academy%20Lab%20Challenges)
 Writeups and solutions to labs from [PortSwigger Web Security Academy](https://portswigger.net/web-security), categorized by vulnerability type and difficulty level.
 
