@@ -74,10 +74,6 @@ GitHub: [@sudo-su-ayan-ali](https://github.com/sudo-su-ayan-ali)
 ---
 
 > **Disclaimer:** This lab is solved for educational purposes only. Do not attempt to exploit systems unless you have legal permission.
-```
-
----
-
 
 
 
