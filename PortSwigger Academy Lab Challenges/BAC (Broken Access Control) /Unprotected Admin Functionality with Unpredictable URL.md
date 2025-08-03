@@ -1,4 +1,4 @@
-## lab: Unprotected Admin Functionality with Unpredictable URL
+## Lab: Unprotected Admin Functionality with Unpredictable URL
 
 **Summary:**  
 An administrative panel is accessible to unauthenticated users via an obscure but unprotected URL. This allows any user to perform privileged actions, such as deleting other users, without proper authorization.
