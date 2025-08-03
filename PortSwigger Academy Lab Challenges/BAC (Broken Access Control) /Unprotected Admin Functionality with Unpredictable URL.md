@@ -1,4 +1,4 @@
-## Bug Report: Unprotected Admin Functionality with Unpredictable URL
+## lab: Unprotected Admin Functionality with Unpredictable URL
 
 **Summary:**  
 An administrative panel is accessible to unauthenticated users via an obscure but unprotected URL. This allows any user to perform privileged actions, such as deleting other users, without proper authorization.
@@ -83,4 +83,4 @@ An administrative panel is accessible to unauthenticated users via an obscure bu
 
 ---
 
-**Reported by:** Ayan Ali
+**Solved by:** Ayan Ali
