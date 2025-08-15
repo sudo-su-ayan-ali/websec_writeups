@@ -1,8 +1,6 @@
 
 # 🐞 BugBox: A Local Web Pentesting Lab (DVWA + bWAPP)
 
-## 💻 Vulnerable Web Applications Setup for Pentesting Practice
-
 This guide walks you through setting up **DVWA** (Damn Vulnerable Web Application) and **bWAPP** (Buggy Web Application) — two purposely vulnerable web apps designed for practicing various web attacks and penetration testing techniques safely and legally.
 
 Ideal for cybersecurity students, bug bounty hunters, and anyone diving deeper into web application security!
