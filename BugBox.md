@@ -217,16 +217,6 @@ If you face connection issues at `localhost/bWAPP/install.php`, try the followin
 
 ---
 
-## 📸 Screenshots (Optional)
-
-> Include screenshots of:
-> - DVWA login page
-> - bWAPP login page
-> - Installed file structure
-> - Configuration settings
-
----
-
 ## 🙌 Final Words
 
 Both **bWAPP** and **DVWA** are fantastic labs to practice real-world web vulnerabilities including:
